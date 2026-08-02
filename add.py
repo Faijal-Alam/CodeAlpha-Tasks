@@ -1,4 +1,4 @@
-a=5
-b=6
+a=2
+b=8
 sum=a+b
 print(sum)
