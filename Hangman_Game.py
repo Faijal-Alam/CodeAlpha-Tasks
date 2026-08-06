@@ -1,7 +1,7 @@
 import random
 import os
 
-word_list = ["mango", "apple", "parrot", "keyword","good","car"]
+word_list = ["mango", "apple", "parrot", "keyword","great","car"]
 lives = 6
 Chosen_word = random.choice(word_list)
 display = ["_"] * len(Chosen_word)
